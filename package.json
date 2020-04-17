@@ -1,0 +1,13 @@
+{
+  "name": "greyscale pic",
+  "version": "1.0.0",
+  "description": "import a pic and export a char pic by javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bilibiliou",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.0"
+  }
+}
